@@ -1,4 +1,4 @@
-((window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static/development/pages/_app.js"],{
+((window["webpackJsonp"] = window["webpackJsonp"] || []).push([["static\\development\\pages\\_app.js"],{
 
 /***/ "./node_modules/@babel/runtime-corejs2/core-js/array/is-array.js":
 /*!***********************************************************************!*\
@@ -9117,7 +9117,7 @@ module.exports = function(module) {
 /***/ (function(module, exports, __webpack_require__) {
 
 __NEXT_REGISTER_PAGE('/_app', function() {
-module.exports = __webpack_require__(/*! /Users/rajistebennin/Desktop/Projects/L+R/spireworks/node_modules/next/dist/pages/_app.js */"./node_modules/next/dist/pages/_app.js");
+module.exports = __webpack_require__(/*! C:\Users\rajis\Proj\L+R\NextJS\node_modules\next\dist\pages\_app.js */"./node_modules/next/dist/pages/_app.js");
 
 return { page: module.exports.default }});
 

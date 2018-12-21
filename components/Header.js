@@ -25,7 +25,7 @@ const style = {
 
 const Header = () => (
   <Layout>
-    <nav className="navbar navbar-expand-lg" style={style.nav}>
+    <nav className="navbar fixed-top navbar-expand-lg" style={style.nav}>
       <Link href="/"><a className="navbar-brand" style={style.links}>Spireworks</a></Link>
       <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02" aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
         <span className="navbar-toggler-icon" style={style.hamburger}></span>
