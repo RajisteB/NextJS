@@ -20,7 +20,7 @@ const Footer = () => (
         </Link>
       </div>
       <div className="copyright">
-        <i class="fab fa-twitter fa-lg"></i>&nbsp;&nbsp;&copy;&nbsp;2019&nbsp;Spireworks
+        <i className="fab fa-twitter fa-lg"></i>&nbsp;&nbsp;&copy;&nbsp;2019&nbsp;Spireworks
       </div>
     </nav>
   </div>

@@ -33,6 +33,9 @@ const content = {
     },
     quote: '"An open system to share in moments of discovery, play, and next generation civic activism."',
     quoteAttribute: "- Mark Domino, Spireworks Executive Director"
+  },
+  about: {
+    description: "Request an invite from within the app. Choose between One Bryant Park and Four Times Square, two of the most iconic buildings on the New York City skyline. See the lights on the spires change colors in real-time before your eyes. Spireworks frequently supports and partners with charities and takes over the spire for special events - donate towards a good cause, and gain special access!"
   }
 };
 
